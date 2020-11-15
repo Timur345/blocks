@@ -1,0 +1,8 @@
+div{border:2px solid #ffffff;
+    height:400px;
+    width:400px;
+    top:40%;
+    border-radius:11% 11% 11% 11% / 12% 11% 11% 11% ;
+    background: linear-gradient(to right, #fcb045,#ff0000,#833ab4);
+    background: NaNcircle (#ffffff 50px);
+}
